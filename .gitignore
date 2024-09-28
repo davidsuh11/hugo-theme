@@ -8,3 +8,5 @@ desktop.ini
 thumbs.db
 $RECYCLE.BIN/
 .DS_Store
+
+.*.swp
